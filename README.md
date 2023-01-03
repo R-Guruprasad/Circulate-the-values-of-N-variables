@@ -23,8 +23,8 @@ def circulate():
 
 ```
 ## Output:
-![label](/pict1.png)
-![label](/pict2.png)
+![label](./pict1.png)
+![label](./pict2.png)
 
 ## Result:
 The variables are circulated successfully.
