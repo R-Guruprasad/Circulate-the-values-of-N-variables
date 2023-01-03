@@ -15,7 +15,16 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
+```python
+def circulate():
+    a=eval(input())
+    x=int(input())
+    print("After circulating the values are: {}".format(a[x:]+a[:x]))
 
+```
 ## Output:
+![label](/pict1.png)
+![label](/pict2.png)
 
 ## Result:
+The variables are circulated successfully.
