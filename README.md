@@ -21,6 +21,9 @@ Using the slicing concept rotate the list
 Printing the list after circulating
 ## Program:
 ```python
+#python program to circulate the n variables using function concept
+#Developed by: R.Guruprasad
+#ref no: 22006697
 def circulate():
     a=eval(input())
     x=int(input())
